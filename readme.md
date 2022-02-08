@@ -1,7 +1,3 @@
-readme.md
-
-text file with description
-
-Hi! My name is Stanislav Todorov. I am 24 years old and I'm from Moscvow. I have big interest to be analyst in digital marketing.
-My carrer track was start in top-5 rate federal dealer in automotive industry. I've start first work day in august 2019, more than 2 years ago.
-Now, i finish my carrer in automotive industry and in march 2020 i connect to data team at Sberhealth. In this company i start at podition of marketing data analytics. I hope that i should build accurate marketing analytics stack and with time i can stay lead of marketing analytics.
+Hi! My name is Stanislav Todorov. I am 24 years old and I'm from Moscow. I have big interest in analytics of digital marketing (but in fast future i plan explore product analytics and machine learning).
+My carreer track was start in web-analyst (junior-level position) at marketing department in top-5 rate federal dealer in automotive industry. I've start first work day in august 2019, more than 2 years and 6 month ago.
+Now, i finish my career in automotive industry and in march 2022 i connect to the data analytics team at Sberhealth. In this company i start at position of marketing data analyst (middle level). I hope, that i should build marketing analytics stack with high accuracy and conrolled data quality, which can answer for different questions about customer aquisition, performance marketing and how growth metrics (ex - ROI, CR, CRR). As for me, it is big challenge for my career opportunities. My result in analytics is that i have built different reports of marketing effeciency, analyze diffrernt attribution models and built some integrations between different systems for optimization of strategies for user aquisition from paid channels. I hope that in perspective of few years i can be lead on marketing or product analytics in e-commerce/retail business.
